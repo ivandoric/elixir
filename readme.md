@@ -1,5 +1,7 @@
 
-This theme was made for video tutorial about using Laravel Elixir with WordPress. Check out the video here: 
+This theme was made for video tutorial about using Laravel Elixir with WordPress. 
+
+[Check out the video here](https://www.youtube.com/watch?v=kmk_vxakSTk) 
 
 ## Usage
 
