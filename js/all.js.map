@@ -1,0 +1,1 @@
+{"version":3,"sources":["hello.js","main.js"],"names":[],"mappings":"AAAA;AACA;AACA;ACFA;AACA;AACA","file":"all.js","sourcesContent":["jQuery(document).ready(function($) {\n    alert('Hello World!');\n});","jQuery(document).ready(function($) {\r\n\r\n});"],"sourceRoot":"/source/"}

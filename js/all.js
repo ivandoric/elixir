@@ -1,0 +1,1 @@
+jQuery(document).ready(function(e){alert("Hello World!")}),jQuery(document).ready(function(e){});
